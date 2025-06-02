@@ -1,0 +1,15 @@
+*{margin:0; padding:0}
+.rating {
+  margin: 1em;
+  display: flex;
+}
+
+.rating__label {
+  font-weight: bold;
+  margin: 0;
+}
+
+.rating__star {
+  border-radius: 1em;
+  background: #eee;
+}
